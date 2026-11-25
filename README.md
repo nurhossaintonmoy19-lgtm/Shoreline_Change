@@ -41,6 +41,6 @@ Maps and analytical results are presented here.
 - Python
 
 ## 9. Author
-Nur Hossain Tonmoy
-Geography and Environment Student, Jahangirnagar University
+Nur Hossain Tonmoy;
+Geography and Environment Student, Jahangirnagar University;
 Email : 20240959315nur@juniv.edu
