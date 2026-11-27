@@ -5,7 +5,6 @@ This directory contains the spatial boundary of the study area, Meghna Estuary, 
 ## Data Format
 
 - Shapefile
-- GeoJSON (optional)
 
 ## Purpose
 
